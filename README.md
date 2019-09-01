@@ -1,5 +1,5 @@
 # Gas Leak Question
-Problem statement on calculation of physical properties of various gases during a gas leak 
+Problem statement on calculation of physical properties of various gases during leakages
 
 ## Concepts
 See <i>Chapter 4 - Source Models</i> under <i>Chemical Process Safety: Fundamentals with Applications</i>
