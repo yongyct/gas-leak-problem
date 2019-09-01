@@ -23,9 +23,9 @@ See <i>Chapter 4 - Source Models</i> under <i>Chemical Process Safety: Fundament
 ## Other Notes
 * To compute the properties of other chemicals/gases:
 	* append the following properties (check in Google the physical properties of the gas) to the array variable under the contants section in `gas_leak_problem.m`
-		* `gamma` (heat capacity ratio) [https://en.wikipedia.org/wiki/Heat_capacity_ratio]
-		* `M` (molar mass) [https://en.wikipedia.org/wiki/Molar_mass]
-		* `mu` (dynamic viscosity) [https://en.wikipedia.org/wiki/Viscosity#Dynamic_and_kinematic_viscosity]
+		* `gamma` [heat capacity ratio] (https://en.wikipedia.org/wiki/Heat_capacity_ratio)
+		* `M` [molar mass] (https://en.wikipedia.org/wiki/Molar_mass)
+		* `mu` [dynamic viscosity] (https://en.wikipedia.org/wiki/Viscosity#Dynamic_and_kinematic_viscosity)
 	* add chemical/gas name to `Rowname` variable under `Tabulating answers` section in `gas_leak_problem.m`
 	* add a new `case` under the `switch` statement, defining the output table under the `Appendix` section in `gas_leak_problem.m`
 
